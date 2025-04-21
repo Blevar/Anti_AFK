@@ -1,0 +1,1 @@
+This script moves mouse randomly 3px in a random direction once in a while and once a minute preses shift for a short time. The idea is to make Teams or any other program to think you are not AFK ;) This will prevent screen saver and any power saving options to be not active.
